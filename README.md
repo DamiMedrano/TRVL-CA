@@ -1,6 +1,6 @@
 <h3>
   # LOGIN-PAGE <br>
-  Travle page template
+  Travel page template
 <h3>
 
 <h2>Phone Previews<h2>
