@@ -1,6 +1,6 @@
 <h3>
   # LOGIN-PAGE <br>
-  Just a sample of a login page, background is video when on desktop view.
+  Travle page template
 <h3>
 
 <h2>Phone Previews<h2>
